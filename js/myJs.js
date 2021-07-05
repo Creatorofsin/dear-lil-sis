@@ -1,16 +1,15 @@
 const textConfig = {
-  text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text1: "Heluu Ngọc Mai, my fav lil sis!",
+  text2: "Sau đây là đôi lời chúc mà Phương muốn gửi cho người e gái iu quý của mình <3.",
+  text3: "Gửi Ngọc Mai xinh đẹp, dễ thương nhất vũ trụ >v<",
+  text4: "Chúc e gái của Phương sắp tới thi thật tốt, điểm thật cao. Cầu mong những điều tuyệt vời nhất sẽ đến với bé <3<3",
+  text5: "Ahihi, cảm ơn Phương iu quý <3",
+  text7: "Đôi lời muốn gửi gắm của Ngọc Mai tới Phương.",
+  text8: "Thank you, iu e gái nhìu :D",
+  text9: "Chúc Phương đẹp trai và sớm có ny =))",
+  text10: "PHương biết mà ^^ Love u 300.000.p/s:quý đéo phải yêu nhé",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
+    "Thi xong chúng ta cùng đi chơi, cùng đi học và cùng nhau khẩu nghiệp =))). Sau này không ai nuôi Ngọc Mai thì Phương sẽ tự nuôi em gái của mình <3",
   text12: "Okii lunn <3",
 };
 
